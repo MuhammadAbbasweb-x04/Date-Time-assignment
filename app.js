@@ -43,3 +43,18 @@
 
 // Q6
 // Answer
+// let nowtime = new Date();
+// let fewminago = new Date(nowtime.getHours() );
+// let tohourago = new Date();
+// let onedayago = new Date();
+
+// console.log(fewminago)
+// console.log( tohourago)
+// console.log(onedayago)
+
+
+// Q7
+// Answer
+// let currenttime = new Date();
+// let futuretime = new Date(currenttime.getMonth() , currenttime.getDate(), currenttime.getFullYear());
+// console.log(futuretime); 
