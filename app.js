@@ -29,3 +29,17 @@
 // const currentdate = new Date();
 // const firstday = new Date(currentdate.getFullYear(), currentdate.getMonth(), 1 )
 // console.log(firstday);
+
+
+// Q5
+// Answer
+// let currentdate = new Date();
+// function lastdates(){
+// let lastdaysmonth =  new Date (currentdate.getFullYear(), currentdate.getMonth(),-1)
+// return lastdaysmonth
+
+// }
+// console.log(lastdates());
+
+// Q6
+// Answer
